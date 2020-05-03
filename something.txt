@@ -1,1 +1,21 @@
 
+
+
+1.下载安装这个:  
+
+https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.9.9/Clash.for.Windows.Setup.0.9.9.exe
+
+
+2.订阅链接：
+
+https://gfwsb.114514.best/sub?target=clashr&url=https%3a%2f%2fraw.githubusercontent.com%2fDesperadoJ%2fRules-for-UnblockNeteaseMusic%2fmaster%2fClash%2fUnblockNeteaseMusic.yaml%7chttps%3A//www.cordcloud.site/link/VFNRUlHJSFyNQIwB%3Fmu%3D2%7Chttps%3A//www.cordcloud.site/link/HyJkXYvVtZP1iClP%3Fis_ss%3D0&config=https%3A//raw.githubusercontent.com/cccarbondioxide/void/master/cordlite.ini&emoji=true&fdn=true&include=&exclude=&sort=true
+(已解锁网易云)         
+
+                                       <<<<<注意：此为我的私人链接，禁止共享>>>>>
+
+3.点击软件profiles,填入上一步的url,点击下载
+
+
+4，进入proxies界面，星辰大海选项,选择回家,
+
+   再在回家选项内选择沪
