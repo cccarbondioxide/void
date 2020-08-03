@@ -1,1 +1,44 @@
+#  > Blizzard
+DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,battlenet.com
+DOMAIN-SUFFIX,blizzard.com
 
+# > Epic
+DOMAIN-SUFFIX,epicgames.com
+DOMAIN-SUFFIX,helpshift.com
+DOMAIN-SUFFIX,paragon.com
+DOMAIN-SUFFIX,unrealengine.com
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,arkoselabs.com
+DOMAIN-KEYWORD,epic
+# DOMAIN-SUFFIX,epic-games-api.arkoselabs.cn
+
+# > Steam
+DOMAIN,steampipe.akamaized.net
+DOMAIN,steamstore-a.akamaized.net
+
+# > Rockstar
+# DOMAIN,signin.rockstargames.com
+DOMAIN,signin-s.rsg.sc
+DOMAIN-SUFFIX,rockstargames.com
+
+# > Ubisoft
+DOMAIN,smetrics.ubi.com
+DOMAIN,public-ubiservices.ubi.com
+DOMAIN,connect.ubisoft.com
+DOMAIN,dmx.upc.ubisoft.com
+DOMAIN,public-ws-ubiservices.ubi.com
+DOMAIN,ubisoft-avatars.akamaized.net
+DOMAIN,static3.cdn.ubi.com
+DOMAIN,store.ubi.com
+# DOMAIN,cdn.tagcommander.com
+# DOMAIN,cdn.trustcommander.net
+# DOMAIN,cdn.cquotient.com
+# DOMAIN,p.cquotient.com
+# DOMAIN,privacy.trustcommander.net
+# DOMAIN,cm.everesttech.net
+# DOMAIN,sm-epsilon.com
+
+
+# > Warframe
+DOMAIN-SUFFIX,warframe.com
