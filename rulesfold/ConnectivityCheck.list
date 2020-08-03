@@ -1,0 +1,3 @@
+# > connectivitycheck
+DOMAIN-KEYWORD,gstatic.com/generate_204`\d{3-5}
+DOMAIN-KEYWORD,bing.com\/\`\d{3,5}
