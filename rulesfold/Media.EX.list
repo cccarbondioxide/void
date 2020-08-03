@@ -1,1 +1,28 @@
+#> YouTube issuefix
+USER-AGENT,*youtube*
+USER-AGENT,YouTube*
+DOMAIN-SUFFIX,yt.be
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-KEYWORD,ytimg.com
+DOMAIN-KEYWORD,youtube
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,gvt0.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt3.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtubegaming.com
+DOMAIN-SUFFIX,youtubeeducation.com
+DOMAIN-SUFFIX,youtube-nocookie.com
 
+#> nfmovies issue fix
+# DOMAIN-SUFFIX,www.nfmovies.com
+
+#> duboku issue fix
+# DOMAIN-KEYWORD,duboku
+# DOMAIN-KEYWORD,zdubo
+# DOMAIN-KEYWORD,wedubo
+# DOMAIN-KEYWORD,dboku
+# DOMAIN-KEYWORD,uhibo
+# DOMAIN-KEYWORD,tudu
+# DOMAIN-KEYWORD,dubutv
