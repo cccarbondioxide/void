@@ -1,5 +1,5 @@
 # > connectivitycheck
 DOMAIN-KEYWORD,gstatic.com/generate_204`\d{2-5},,.*
-DOMAIN-KEYWORD,connect.rom.miui.com/generate_204`\d{2-5}.*
+DOMAIN-KEYWORD,connect.rom.miui.com/generate_204`\d{2-5},,.*
 DOMAIN-KEYWORD,bing.com\/\`\d{2,5},,.*
 DOMAIN-KEYWORD,cp.cloudflare.com\/generate_204`\d{2-5},,.*
