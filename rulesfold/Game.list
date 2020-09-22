@@ -66,6 +66,7 @@ DOMAIN-SUFFIX,hibiki-site.com
 DOMAIN-SUFFIX,minori.ph
 DOMAIN-SUFFIX,tenco.cc
 DOMAIN-SUFFIX,wheel-soft.com
+DOMAIN-SUFFIX,dmmgames.com
 
 # > Kancolle
 IP-CIDR,203.104.209.7/32,no-resolve
