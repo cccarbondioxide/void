@@ -1,6 +1,6 @@
 ⚓ DNS优选,https://raw.githubusercontent.com/LM-Firefly/Rules/master/Special/DNS.list
 ⚓ DNS优选,https://raw.githubusercontent.com/cccarbondioxide/void/master/rulesfold/ConnectivityCheck.list
-🗼 DIRECT,https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/UnBan.list
+🗼 DIRECT,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 🛑 Adblock,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Hijacking.list
 🛑 Adblock,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyListChina.list
 🛑 Adblock,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyPrivacy.list
@@ -14,7 +14,6 @@
 🐧🍻🥝,https://raw.githubusercontent.com/cccarbondioxide/void/master/rulesfold/TencentV%26Bilibili%26iQIYI.list
 Ⓜicrosoft🍎Apple🛹MI,https://raw.githubusercontent.com/cccarbondioxide/void/master/rulesfold/Apple%26Mi.list
 📲 Telegram,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Telegram.list
-;📺 動畫瘋&Niconico,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Niconico.list
 📺 動畫瘋,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bahamut.list
 💻 GamePlatform,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Epic.list
 💻 GamePlatform,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list
