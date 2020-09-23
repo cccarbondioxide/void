@@ -1,3 +1,9 @@
+# > CordCloud
+DOMAIN-KEYWORD,cordcord
+DOMAIN-KEYWORD,cordcloud
+
+### ###
+
 #  > Blizzard
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,battlenet.com
@@ -38,10 +44,6 @@ DOMAIN,store.ubi.com
 # DOMAIN,privacy.trustcommander.net
 # DOMAIN,cm.everesttech.net
 # DOMAIN,sm-epsilon.com
-
-
-# > Warframe
-DOMAIN-SUFFIX,warframe.com
 
 # > Sony
 DOMAIN-SUFFIX,playstation.com
@@ -90,3 +92,6 @@ IP-CIDR,203.104.209.23/32,no-resolve
 IP-CIDR,203.104.209.39/32,no-resolve
 IP-CIDR,203.104.209.55/32,no-resolve
 IP-CIDR,203.104.209.102/32,no-resolve
+
+# > Warframe
+DOMAIN-SUFFIX,warframe.com
