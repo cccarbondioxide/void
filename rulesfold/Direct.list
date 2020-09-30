@@ -1,6 +1,8 @@
 # > cn.bing
-DOMAIN-SUFFIX,cn.bing.net
-DOMAIN-SUFFIX,cn.bing.com
+DOMAIN,cn.bing.net
+DOMAIN,cn.bing.com
+DOMAIN,s.cn.bing.com
+DOMAIN,business.bing.com
 
 # > SteamCN
 # 数量：13条
