@@ -7,28 +7,20 @@
 🛑 Adblock,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
 🛑 Adblock,https://raw.githubusercontent.com/cccarbondioxide/void/master/rulesfold/Blocklist
 🗼 DIRECT 🗼,https://raw.githubusercontent.com/cccarbondioxide/void/master/rulesfold/Direct.list
-;🎵 网易云,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/Netease%20Music.list
 🎵 网易云,https://raw.githubusercontent.com/cccarbondioxide/void/master/rulesfold/NeteaseMusic.list
-;🎵 网易云,https://raw.githubusercontent.com/tindy2013/subconverter/master/base/rules/lhie1/Netease%20Music%20IP.list
-;🎵 网易云,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/NetEaseMusic.list
 🐧🍻🥝,https://raw.githubusercontent.com/cccarbondioxide/void/master/rulesfold/TencentV%26Bilibili%26iQIYI.list
 Ⓜicrosoft🍎Apple🛹MI,https://raw.githubusercontent.com/cccarbondioxide/void/master/rulesfold/Apple%26Mi.list
 📲 Telegram,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Telegram.list
 📺 動畫瘋,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bahamut.list
 🇨🇳 回家,https://raw.githubusercontent.com/cccarbondioxide/void/master/rulesfold/bk-md.list
-;💻 GamePlatform,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Epic.list
-;💻 GamePlatform,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list
-;💻 GamePlatform,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Blizzard.list
 💻 GamePlatform,https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game.list
 💻 GamePlatform,https://raw.githubusercontent.com/cccarbondioxide/void/master/rulesfold/Game.list
 🌍 全球媒体,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
 🌍 全球媒体,https://raw.githubusercontent.com/cccarbondioxide/void/master/rulesfold/Media.EX.list
 🌍 全球媒体,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Discord.list
 🌍 全球媒体,https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Video-Crack.list
-;🕵 漏网之鱼(block-fix),https://raw.githubusercontent.com/cccarbondioxide/void/master/rulesfold/Useless.list
 Ⓜicrosoft🍎Apple🛹MI,https://raw.githubusercontent.com/LM-Firefly/Rules/master/Microsoft.list
 🔰 星辰大海,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Proxy.list
-;🔰 星辰大海,https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY.list
 🔰 星辰大海,https://raw.githubusercontent.com/cccarbondioxide/void/master/rulesfold/Proxy.list
 🇨🇳 回家,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list
 🇨🇳 回家,https://raw.githubusercontent.com/LM-Firefly/Rules/master/CCC-CN.list
