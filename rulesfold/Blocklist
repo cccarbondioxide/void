@@ -123,6 +123,7 @@ DOMAIN,bf.thehour.cn,AdBlock
 DOMAIN,ta.8531.cn,AdBlock
 DOMAIN,img.thehour.cn,AdBlock
 DOMAIN,ads.gameabc.com,AdBlock
+DOMAIN,ad.gameabc.com,AdBlock
 
 # > nfmovies.com
 DOMAIN-SUFFIX,nfmovies.com/static/1,AdBlock
