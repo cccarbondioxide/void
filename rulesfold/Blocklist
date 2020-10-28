@@ -119,13 +119,13 @@ DOMAIN-SUFFIX,corp.youdao.com
 DOMAIN-SUFFIX,ir.mail.yeah.net
 
 # > Bianfeng_Gamecenter
-DOMAIN,bf.thehour.cn,AdBlock
-DOMAIN,ta.8531.cn,AdBlock
-DOMAIN,img.thehour.cn,AdBlock
-DOMAIN,ads.gameabc.com,AdBlock
-DOMAIN,bfas.bianfeng.com,AdBlock
-DOMAIN,uad.gameabc.com,AdBlock
-DOMAIN,js.users.51.la,AdBlock
+DOMAIN-SUFFIX,bf.thehour.cn,AdBlock
+DOMAIN-SUFFIX,ta.8531.cn,AdBlock
+DOMAIN-SUFFIX,img.thehour.cn,AdBlock
+DOMAIN-SUFFIX,ads.gameabc.com,AdBlock
+DOMAIN-SUFFIX,bfas.bianfeng.com,AdBlock
+DOMAIN-SUFFIX,uad.gameabc.com,AdBlock
+DOMAIN-SUFFIX,js.users.51.la,AdBlock
 
 # > nfmovies.com
 DOMAIN-SUFFIX,nfmovies.com/static/1,AdBlock
