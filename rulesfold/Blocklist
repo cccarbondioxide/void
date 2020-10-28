@@ -125,7 +125,7 @@ DOMAIN,img.thehour.cn,AdBlock
 DOMAIN,ads.gameabc.com,AdBlock
 DOMAIN,bfas.bianfeng.com,AdBlock
 DOMAIN,uad.gameabc.com,AdBlock
-DOMAIN,ad.gameabc.com,AdBlock
+DOMAIN,js.users.51.la,AdBlock
 
 # > nfmovies.com
 DOMAIN-SUFFIX,nfmovies.com/static/1,AdBlock
