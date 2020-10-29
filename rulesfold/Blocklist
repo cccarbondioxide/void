@@ -122,10 +122,12 @@ DOMAIN-SUFFIX,ir.mail.yeah.net
 DOMAIN-SUFFIX,bf.thehour.cn,AdBlock
 DOMAIN-SUFFIX,ta.8531.cn,AdBlock
 DOMAIN-SUFFIX,img.thehour.cn,AdBlock
+DOMAIN-SUFFIX,ad.gameabc.com,AdBlock
 DOMAIN-SUFFIX,ads.gameabc.com,AdBlock
 DOMAIN-SUFFIX,bfas.bianfeng.com,AdBlock
 DOMAIN-SUFFIX,uad.gameabc.com,AdBlock
 DOMAIN-SUFFIX,js.users.51.la,AdBlock
+
 
 # > nfmovies.com
 DOMAIN-SUFFIX,nfmovies.com/static/1,AdBlock
