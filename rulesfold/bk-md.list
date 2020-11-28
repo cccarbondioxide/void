@@ -1,5 +1,4 @@
 # > SteamCN
-# 数量：13条
 DOMAIN-SUFFIX,csgo.wmsj.cn
 DOMAIN-SUFFIX,dl.steam.ksyna.com
 DOMAIN-SUFFIX,dota2.wmsj.cn
@@ -13,4 +12,21 @@ DOMAIN-SUFFIX,steampowered.com.8686c.com
 DOMAIN-SUFFIX,steamstat.us
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steamusercontent.com
-
+# > Government
+DOMAIN-SUFFIX,gov.cn
+# > 华医网
+DOMAIN-SUFFIX,91huayi.cn
+DOMAIN-SUFFIX,91huayi.com
+DOMAIN-SUFFIX,91huayi.net
+DOMAIN-SUFFIX,heart301.cn
+DOMAIN-SUFFIX,henancme.net
+DOMAIN-SUFFIX,huayi.cn
+DOMAIN-SUFFIX,huayiweibo.com
+DOMAIN-SUFFIX,huayiyuan.com
+DOMAIN-SUFFIX,robot301.net
+DOMAIN-SUFFIX,roboticsurg301.net
+DOMAIN-SUFFIX,scncrc.com
+DOMAIN-SUFFIX,shiyanma.org.cn
+DOMAIN-SUFFIX,sqpx.org
+DOMAIN-SUFFIX,wsglw.com
+DOMAIN-SUFFIX,wsglw.net
