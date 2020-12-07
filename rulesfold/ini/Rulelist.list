@@ -1,7 +1,8 @@
 ⚓ DNS优选,https://raw.githubusercontent.com/LM-Firefly/Rules/master/Special/DNS.list
 ⚓ DNS优选,https://raw.githubusercontent.com/cccarbondioxide/void/master/rulesfold/ConnectivityCheck.list
 🗼 DIRECT 🗼,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
-🛑 Adblock,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Hijacking.list
+🛑 Adblock,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Reject.list
+🛑 Adblock,https://github.com/LM-Firefly/Rules/blob/master/Adblock/Adblock.list
 🛑 Adblock,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyListChina.list
 🛑 Adblock,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyPrivacy.list
 🛑 Adblock,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
@@ -10,7 +11,6 @@
 🎵 网易云,https://raw.githubusercontent.com/cccarbondioxide/void/master/rulesfold/NeteaseMusic.list
 🐧🍻🥝,https://raw.githubusercontent.com/cccarbondioxide/void/master/rulesfold/TencentV%26Bilibili%26iQIYI.list
 Ⓜicrosoft🍎Apple🛹MI,https://raw.githubusercontent.com/cccarbondioxide/void/master/rulesfold/Apple%26Mi.list
-;📲 Telegram,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Telegram.list
 📲 Telegram,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Telegram.list
 📺 動畫瘋,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bahamut.list
 🇨🇳 回家,https://raw.githubusercontent.com/cccarbondioxide/void/master/rulesfold/bk-md.list
