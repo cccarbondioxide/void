@@ -1,6 +1,6 @@
 ⚓ DNS优选,https://raw.githubusercontent.com/LM-Firefly/Rules/master/Special/DNS.list
 ⚓ DNS优选,https://raw.githubusercontent.com/cccarbondioxide/void/master/rulesfold/ConnectivityCheck.list
-🗼 DIRECT 🗼,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
+;🗼 DIRECT 🗼,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 🗼 DIRECT 🗼,https://raw.githubusercontent.com/LM-Firefly/Rules/master/Special/NTP-Service.list
 🛑 Adblock,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Reject.list
 🛑 Adblock,https://github.com/LM-Firefly/Rules/blob/master/Adblock/Adblock.list
