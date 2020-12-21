@@ -1,4 +1,6 @@
 DOMAIN,code.jquery.com
+## cimoc
+USER-AGENT,com.haleydu.cimoc*
 ## Api block fix
 DOMAIN,dictionary.cambridge.org
 ## Api block fix
