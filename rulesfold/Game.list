@@ -1,7 +1,8 @@
 # > CordCloud
 DOMAIN-KEYWORD,cordcord
 DOMAIN-KEYWORD,cordcloud
-
+DOMAIN,client.crisp.chat
+DOMAIN,client.relay.crisp.chat
 ### ###
 
 #  > Blizzard
