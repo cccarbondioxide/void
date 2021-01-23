@@ -1,6 +1,9 @@
 ## etc.
 DOMAIN,code.jquery.com
+DOMAIN,get.daum.net
 DOMAIN,t1.daumcdn.net
+DOMAIN,status.thawte.com
+DOMAIN,p1-play.edge4k.com
 ## cimoc
 PROCESS-NAME,com.haleydu.cimoc
 ## Api block fix
