@@ -1,6 +1,7 @@
 # > CordCloud
 DOMAIN-KEYWORD,cordcord
 DOMAIN-KEYWORD,cordcloud
+DOMAIN,cdn.jsdelivr.net
 DOMAIN,client.crisp.chat
 DOMAIN,client.relay.crisp.chat
 DOMAIN,secure.gravatar.com
