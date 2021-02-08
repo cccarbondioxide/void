@@ -149,4 +149,4 @@ DOMAIN-KEYWORD,pica.wikawika,AdBlock
 DOMAIN,m1.ad.10010.com
 DOMAIN-SUFFIX,pglstatp-toutiao.com
 DomainSuffix,pangolin-sdk-toutiao.com
-IP-CIDR,183.232.25.151
+IP-CIDR,183.232.25.151,no-resolve
