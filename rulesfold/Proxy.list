@@ -8,6 +8,8 @@ DOMAIN,t1.daumcdn.net
 DOMAIN,status.thawte.com
 DOMAIN,p1-play.edge4k.com
 DOMAIN,ip.skk.moe
+DOMAIN,qqwry.api.skk.moe
+DOMAIN-SUFFIX,skk.moe
 ## cimoc
 PROCESS-NAME,com.haleydu.cimoc
 ## Api block fix
