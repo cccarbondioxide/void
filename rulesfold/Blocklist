@@ -139,8 +139,12 @@ DOMAIN-SUFFIX,nfmovies.com/pic/tu/banner,AdBlock
 DOMAIN,z2.cnzz.com,AdBlock
 DOMAIN,cnzz.mmstat.com,AdBlock
 
-# > Pica_ADblock
+# > Pica_AD
 DOMAIN-KEYWORD,ad-channel,AdBlock
 DOMAIN-KEYWORD,ad-display,AdBlock
 DOMAIN-KEYWORD,wakamoment,AdBlock
 DOMAIN-KEYWORD,pica.wikawika,AdBlock
+
+# > 10010_AD
+DOMAIN,m1.ad.10010.com
+DOMAIN,sf3-fe-tos.pglstatp-toutiao.com
