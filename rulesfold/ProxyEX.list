@@ -1,0 +1,31 @@
+## etc.
+DOMAIN,blissroms.com
+DOMAIN,blissos.org
+DOMAIN-SUFFIX,fontawesome.com
+DOMAIN,code.jquery.com
+DOMAIN,get.daum.net
+DOMAIN,t1.daumcdn.net
+DOMAIN,status.thawte.com
+DOMAIN,p1-play.edge4k.com
+### 个人域名
+DOMAIN,lsp.com.hk
+DOMAIN,ip.skk.moe
+DOMAIN,qqwry.api.skk.moe
+DOMAIN-SUFFIX,skk.moe
+## cimoc
+PROCESS-NAME,com.haleydu.cimoc
+## Api block fix
+DOMAIN,dictionary.cambridge.org
+## Api block fix
+DOMAIN-SUFFIX,mgysvip.com
+DOMAIN-KEYWORD,gfwsb.114514.best
+DOMAIN-KEYWORD,subweb.cordcloud.site
+## Cord block fix
+DOMAIN-KEYWORD,cordcord
+DOMAIN-KEYWORD,cordcloud
+DOMAIN-SUFFIX,ccsub.site
+# DOMAIN-KEYWORD,ccpay.xyz
+## block fix
+# DOMAIN-KEYWORD,regex101.com
+DOMAIN-KEYWORD,urldecoder.org
+DOMAIN-KEYWORD,urlencoder.org
