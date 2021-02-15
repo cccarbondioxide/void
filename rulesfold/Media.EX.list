@@ -1,20 +1,23 @@
-DOMAIN,cdn-freems5.tnfvbblwhr.work
+# DOMAIN,cdn-freems5.tnfvbblwhr.work
 #> YouTube issuefix
 USER-AGENT,*youtube*
 USER-AGENT,YouTube*
-DOMAIN-SUFFIX,yt.be
-DOMAIN-SUFFIX,ytimg.com
-DOMAIN-KEYWORD,ytimg.com
+USER-AGENT,com.google.ios.youtube*
 DOMAIN-KEYWORD,youtube
+DOMAIN,youtubei.googleapis.com
+DOMAIN,yt3.ggpht.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,gvt0.com
+DDOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,ytimg.com
+# DOMAIN-SUFFIX,youtubegaming.com
+# DOMAIN-SUFFIX,youtubeeducation.com
+# DOMAIN-SUFFIX,youtube-nocookie.com
+OMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,gvt3.com
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,youtubegaming.com
-DOMAIN-SUFFIX,youtubeeducation.com
-DOMAIN-SUFFIX,youtube-nocookie.com
+DOMAIN-SUFFIX,yt.be
 
 #> nfmovies issue fix
 # DOMAIN-SUFFIX,www.nfmovies.com
