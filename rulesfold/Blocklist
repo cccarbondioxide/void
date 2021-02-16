@@ -128,13 +128,6 @@ DOMAIN-SUFFIX,bfas.bianfeng.com,AdBlock
 DOMAIN-SUFFIX,uad.gameabc.com,AdBlock
 DOMAIN-SUFFIX,js.users.51.la,AdBlock
 
-
-# > nfmovies.com
-DOMAIN-SUFFIX,nfmovies.com/static/1,AdBlock
-DOMAIN-SUFFIX,nfmovies.com/static/2,AdBlock
-DOMAIN-SUFFIX,nfmovies.com/static/,AdBlock
-DOMAIN-SUFFIX,nfmovies.com/pic/tu/banner,AdBlock
-
 # > cnzz
 DOMAIN,z2.cnzz.com,AdBlock
 DOMAIN,cnzz.mmstat.com,AdBlock
