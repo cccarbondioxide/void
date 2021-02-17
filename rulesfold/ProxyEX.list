@@ -1,4 +1,37 @@
-## etc.
+# etc.
+## 个人域名
+# DOMAIN,lsp.com.hk
+DOMAIN,ip.skk.moe
+DOMAIN,qqwry.api.skk.moe
+DOMAIN-SUFFIX,skk.moe
+
+## [cimoc-zhongfly](https://raw.githubusercontent.com/zhongfly/clash/master/comic.list)
+PROCESS-NAME,com.haleydu.cimoc
+### dm5
+DOMAIN-SUFFIX,dm5.com
+DOMAIN-SUFFIX,cdndm5.com
+DOMAIN-SUFFIX,manhuaren.com
+### manhuagui
+DOMAIN-SUFFIX,hamreus.com
+DOMAIN-SUFFIX,manhuagui.com
+### copymanga
+DOMAIN-SUFFIX,copymanga.com
+DOMAIN-SUFFIX,mangafunc.fun
+### cocomanhua
+DOMAIN-SUFFIX,cocomanhua.com
+
+
+## Cord block fix
+DOMAIN-KEYWORD,cordcord
+DOMAIN-KEYWORD,cordcloud
+DOMAIN-SUFFIX,ccsub.site
+DOMAIN-SUFFIX,c-cloud.xyz
+
+## block fix
+DOMAIN,www.urldecoder.org
+DOMAIN,www.urlencoder.org
+DOMAIN,dictionary.cambridge.org
+DOMAIN-SUFFIX,mgysvip.com
 DOMAIN,blissroms.com
 DOMAIN,blissos.org
 DOMAIN-SUFFIX,fontawesome.com
@@ -7,25 +40,3 @@ DOMAIN,get.daum.net
 DOMAIN,t1.daumcdn.net
 DOMAIN,status.thawte.com
 DOMAIN,p1-play.edge4k.com
-### 个人域名
-# DOMAIN,lsp.com.hk
-DOMAIN,ip.skk.moe
-DOMAIN,qqwry.api.skk.moe
-DOMAIN-SUFFIX,skk.moe
-## cimoc
-PROCESS-NAME,com.haleydu.cimoc
-## Api block fix
-DOMAIN,dictionary.cambridge.org
-## Api block fix
-DOMAIN-SUFFIX,mgysvip.com
-DOMAIN-KEYWORD,gfwsb.114514.best
-DOMAIN-KEYWORD,subweb.cordcloud.site
-## Cord block fix
-DOMAIN-KEYWORD,cordcord
-DOMAIN-KEYWORD,cordcloud
-DOMAIN-SUFFIX,ccsub.site
-# DOMAIN-KEYWORD,ccpay.xyz
-## block fix
-# DOMAIN-KEYWORD,regex101.com
-DOMAIN-KEYWORD,urldecoder.org
-DOMAIN-KEYWORD,urlencoder.org
