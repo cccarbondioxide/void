@@ -1,4 +1,3 @@
-# etc.
 ## 个人域名
 # DOMAIN,lsp.com.hk
 DOMAIN,ip.skk.moe
@@ -20,7 +19,6 @@ DOMAIN-SUFFIX,mangafunc.fun
 ### cocomanhua
 DOMAIN-SUFFIX,cocomanhua.com
 
-
 ## Cord block fix
 DOMAIN-KEYWORD,cordcord
 DOMAIN-KEYWORD,cordcloud
@@ -40,3 +38,7 @@ DOMAIN,get.daum.net
 DOMAIN,t1.daumcdn.net
 DOMAIN,status.thawte.com
 DOMAIN,p1-play.edge4k.com
+
+## Google
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,services.googleapis.cn
