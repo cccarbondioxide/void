@@ -43,10 +43,13 @@ DOMAIN,p1-play.edge4k.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,services.googleapis.cn
 
-## e-hentai
+## e-hentai (https://ehwiki.org/wiki/IPs)
 DOMAIN,forums.e-hentai.org
 DOMAIN-SUFFIX,ehgt.org
 DOMAIN,g.ehgt.org
 DOMAIN,exhentai.org
 DOMAIN-KEYWORD,exhentai
 DOMAIN-KEYWORD,e-hentai
+DOMAIN-SUFFIX,ehtracker.org
+DOMAIN-SUFFIX,hentaiathome.net
+DOMAIN-SUFFIX,hentaiverse.org
