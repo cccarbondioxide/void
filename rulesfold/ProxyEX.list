@@ -25,7 +25,7 @@ DOMAIN-KEYWORD,cordcloud
 DOMAIN-SUFFIX,ccsub.site
 DOMAIN-SUFFIX,c-cloud.xyz
 
-## block fix
+## Block fix
 DOMAIN,www.urldecoder.org
 DOMAIN,www.urlencoder.org
 DOMAIN,dictionary.cambridge.org
@@ -43,7 +43,7 @@ DOMAIN,p1-play.edge4k.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,services.googleapis.cn
 
-## e-hentai (https://ehwiki.org/wiki/IPs)
+## E-hentai (https://ehwiki.org/wiki/IPs)
 DOMAIN,forums.e-hentai.org
 DOMAIN-SUFFIX,ehgt.org
 DOMAIN,g.ehgt.org
