@@ -5,7 +5,7 @@ DOMAIN,ip.skk.moe
 DOMAIN,qqwry.api.skk.moe
 DOMAIN-SUFFIX,skk.moe
 
-## [cimoc-zhongfly](https://raw.githubusercontent.com/zhongfly/clash/master/comic.list)
+## cimoc - (https://raw.githubusercontent.com/zhongfly/clash/master/comic.list)
 PROCESS-NAME,com.haleydu.cimoc
 ### dm5
 DOMAIN-SUFFIX,dm5.com
