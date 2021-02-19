@@ -4,11 +4,16 @@ DOMAIN,ip.skk.moe
 DOMAIN,qqwry.api.skk.moe
 DOMAIN-SUFFIX,skk.moe
 
-## Cord block fix
+# > Subconverter(Part)
+DOMAIN-SUFFIX,subcon.dlj.tf
+DOMAIN-SUFFIX,subweb.ccsub.site
+DOMAIN,sub.ccsub.site
+
+# > CordCloud
 DOMAIN-KEYWORD,cordcord
 DOMAIN-KEYWORD,cordcloud
-DOMAIN-SUFFIX,ccsub.site
-DOMAIN-SUFFIX,c-cloud.xyz
+DOMAIN-KEYWORD,c-cloud
+DOMAIN-SUFFIX,ccsub.cc
 
 ## block fix
 DOMAIN,www.urldecoder.org
