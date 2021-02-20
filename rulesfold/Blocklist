@@ -139,6 +139,10 @@ DOMAIN-KEYWORD,wakamoment,AdBlock
 DOMAIN-KEYWORD,pica.wikawika,AdBlock
 
 # > 10010_AD
-DOMAIN,m1.ad.10010.com
+DOMAIN-SUFFIX,ad.10010.com
 DOMAIN-SUFFIX,pglstatp-toutiao.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+
+# > vedio website may used
+DOMAIN-SUFFIX,ads.aralego.com
+DOMAIN-SUFFIX,ads.adaptv.advertising.com
