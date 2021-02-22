@@ -54,3 +54,9 @@ IP-CIDR,203.104.209.102/32,no-resolve
 
 # > Warframe
 DOMAIN-SUFFIX,warframe.com
+
+# > taptap-Global
+PROCESS-NAME,com.taptap.global
+DOMAIN-SUFFIX,taptap.com
+DOMAIN-SUFFIX,tapdb.net
+DOMAIN-SUFFIX,tap.io
