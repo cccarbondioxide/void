@@ -33,7 +33,7 @@ DOMAIN,p1-play.edge4k.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,services.googleapis.cn
 
-## Cimoc - (https://raw.githubusercontent.com/zhongfly/clash/master/comic.list)
+## Cimoc (https://raw.githubusercontent.com/zhongfly/clash/master/comic.list)
 PROCESS-NAME,com.haleydu.cimoc
 ### dm5
 DOMAIN-SUFFIX,dm5.com
@@ -58,3 +58,6 @@ DOMAIN-KEYWORD,e-hentai
 DOMAIN-SUFFIX,ehtracker.org
 DOMAIN-SUFFIX,hentaiathome.net
 DOMAIN-SUFFIX,hentaiverse.org
+
+## taptap
+PROCESS-NAME,com.taptap.global
