@@ -57,6 +57,9 @@ DOMAIN-SUFFIX,warframe.com
 
 # > taptap-Global
 PROCESS-NAME,com.taptap.global
-DOMAIN-SUFFIX,taptap.com
-DOMAIN-SUFFIX,tapdb.net
 DOMAIN-SUFFIX,tap.io
+DOMAIN-SUFFIX,taptap.tw
+# DOMAIN-SUFFIX,taptap.com
+# DOMAIN-SUFFIX,tapdb.net
+# DOMAIN-SUFFIX,taplb.com
+# DOMAIN-KEYWORD,tap-snow-hk
