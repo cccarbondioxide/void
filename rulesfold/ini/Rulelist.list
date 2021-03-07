@@ -5,7 +5,6 @@
 🛑 Adblock,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyListChina.list
 🛑 Adblock,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyPrivacy.list
 🛑 Adblock,https://raw.githubusercontent.com/cccarbondioxide/void/master/rulesfold/Blocklist
-🗼 DIRECT 🗼,https://raw.githubusercontent.com/cccarbondioxide/void/master/rulesfold/Direct.list
 🎵 网易云,https://raw.githubusercontent.com/cccarbondioxide/void/master/rulesfold/NeteaseMusic.list
 🐧🍻🥝,https://raw.githubusercontent.com/cccarbondioxide/void/master/rulesfold/TencentV%26Bilibili%26iQIYI%20Global.list
 📲 Telegram,https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Telegram.list
@@ -16,6 +15,7 @@
 💻 GamePlatform,https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game.list
 💻 GamePlatform,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Discord.list
 💻 GamePlatform,https://raw.githubusercontent.com/cccarbondioxide/void/master/rulesfold/GameEX.list
+🗼 DIRECT 🗼,https://raw.githubusercontent.com/cccarbondioxide/void/master/rulesfold/Direct.list
 🌍 全球媒体,https://raw.githubusercontent.com/LM-Firefly/Rules/master/GlobalMedia.list
 🕵 漏网之鱼(block-fix),https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Video-Crack.list
 Ⓜicrosoft🍎Apple🛹MI,https://raw.githubusercontent.com/LM-Firefly/Rules/master/Microsoft.list
