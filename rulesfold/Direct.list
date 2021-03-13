@@ -2,14 +2,6 @@
 DOMAIN-SUFFIX,cn.bing.net
 DOMAIN-SUFFIX,cn.bing.com
 
-# > Fast
-DOMAIN-SUFFIX,fast.com
-
-# > Speedtest by Ookla
-USER-AGENT,SpeedTest*
-DOMAIN-KEYWORD,speedtest
-DOMAIN-SUFFIX,ooklaserver.net
-
 # Client
 # > Proxy
 PROCESS-NAME,v2ray,DIRECT
