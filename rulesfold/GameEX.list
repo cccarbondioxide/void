@@ -11,18 +11,6 @@ DOMAIN-SUFFIX,ccsub.cc
 DOMAIN,client.crisp.chat
 DOMAIN,client.relay.crisp.chat
 
-# > Fast
-DOMAIN-SUFFIX,fast.com
-
-# > Speedtest by Ookla
-USER-AGENT,SpeedTest*
-DOMAIN-KEYWORD,speedtest
-DOMAIN-SUFFIX,ooklaserver.net
-DOMAIN-SUFFIX,ookla.mbspeed.net
-
-# > Speed Test by Cloudflare
-DOMAIN-SUFFIX,speed.cloudflare.com
-
 ### ###
 
 # > DMM
