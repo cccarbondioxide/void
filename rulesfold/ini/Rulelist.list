@@ -1,7 +1,7 @@
 ⚓ DNS优选,https://raw.githubusercontent.com/LM-Firefly/Rules/master/Special/DNS.list,10800
 DIRECT,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list,10800
 DIRECT,https://raw.githubusercontent.com/LM-Firefly/Rules/master/Special/NTP-Service.list,10800
-🛑 Adblock,https://raw.githubusercontent.com/LM-Firefly/Rules/master/Adblock/Adblock.list,10800
+🛑 Adblock,https://raw.githubusercontent.com/cccarbondioxide/Rules/master/Adblock/Adblock.list,10800
 🛑 Adblock,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyPrivacy.list,10800
 🛑 Adblock,https://raw.githubusercontent.com/cccarbondioxide/void/master/rulesfold/Blocklist,10800
 DIRECT,https://raw.githubusercontent.com/cccarbondioxide/void/master/rulesfold/Direct.list,10800
