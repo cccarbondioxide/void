@@ -1,4 +1,5 @@
 ## Personal
+
 # DOMAIN,lsp.com.hk
 DOMAIN,ip.skk.moe
 DOMAIN,qqwry.api.skk.moe
@@ -28,6 +29,9 @@ DOMAIN,get.daum.net
 DOMAIN,t1.daumcdn.net
 DOMAIN,status.thawte.com
 DOMAIN,p1-play.edge4k.com
+
+# > V2EX
+DOMAIN-SUFFIX,v2ex.com
 
 ## Google
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
