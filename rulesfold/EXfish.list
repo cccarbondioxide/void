@@ -10,3 +10,6 @@ DOMAIN-SUFFIX,ookla.mbspeed.net
 # > Speedtest by Cloudflare
 DOMAIN-SUFFIX,speed.cloudflare.com
 
+# > V2EX
+DOMAIN-SUFFIX,v2ex.co
+DOMAIN-SUFFIX,v2ex.com
