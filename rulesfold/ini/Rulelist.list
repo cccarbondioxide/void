@@ -3,25 +3,24 @@ DIRECT,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 DIRECT,https://raw.githubusercontent.com/LM-Firefly/Rules/master/Special/NTP-Service.list,10800
 🛑 Adblock,https://raw.githubusercontent.com/cccarbondioxide/Rules/master/Adblock/Adblock.list,10800
 🛑 Adblock,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyPrivacy.list,10800
-🛑 Adblock,https://raw.githubusercontent.com/cccarbondioxide/void/master/rulesfold/Blocklist,10800
-DIRECT,https://raw.githubusercontent.com/cccarbondioxide/void/master/rulesfold/Direct.list,10800
-🎵 网易云,https://raw.githubusercontent.com/cccarbondioxide/void/master/rulesfold/NeteaseMusic.list,10800
-🐧🍻🥝,https://raw.githubusercontent.com/cccarbondioxide/void/master/rulesfold/TencentV%26Bilibili%26iQIYI%20Global.list,10800
+🛑 Adblock,https://raw.githubusercontent.com/cccarbondioxide/void/dev/rulesfold/Blocklist,10800
+DIRECT,https://raw.githubusercontent.com/cccarbondioxide/void/dev/rulesfold/Direct.list,10800
+🎵 网易云,https://raw.githubusercontent.com/cccarbondioxide/void/dev/rulesfold/NeteaseMusic.list,10800
+🐧🍻🥝,https://raw.githubusercontent.com/cccarbondioxide/void/dev/rulesfold/TencentV%26Bilibili%26iQIYI%20Global.list,10800
 📲 Telegram,https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Telegram.list,10800
-🔰 星辰大海,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Clubhouse.list,10800
 📺 動畫瘋,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bahamut.list,10800
-Ⓜicrosoft🍎Apple🛹MI,https://raw.githubusercontent.com/cccarbondioxide/void/master/rulesfold/Apple%26Mi.list,10800
-🇨🇳 回家,https://raw.githubusercontent.com/cccarbondioxide/void/master/rulesfold/bk-md.list,10800
-🕵 漏网之鱼(block-fix),https://raw.githubusercontent.com/cccarbondioxide/void/master/rulesfold/EXfish.list,10800
+Ⓜicrosoft🍎Apple🛹MI,https://raw.githubusercontent.com/cccarbondioxide/void/dev/rulesfold/Apple%26Mi.list,10800
+🇨🇳 回家,https://raw.githubusercontent.com/cccarbondioxide/void/dev/rulesfold/bk-md.list,10800
+🕵 漏网之鱼(block-fix),https://raw.githubusercontent.com/cccarbondioxide/void/dev/rulesfold/EXfish.list,10800
 🕵 漏网之鱼(block-fix),https://raw.githubusercontent.com/LM-Firefly/Rules/master/SpeedTest.list,10800
 💻 GamePlatform,https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game.list,10800
 💻 GamePlatform,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Discord.list,10800
-💻 GamePlatform,https://raw.githubusercontent.com/cccarbondioxide/void/master/rulesfold/GameEX.list,10800
+💻 GamePlatform,https://raw.githubusercontent.com/cccarbondioxide/void/dev/rulesfold/GameEX.list,10800
 🌍 全球媒体,https://raw.githubusercontent.com/LM-Firefly/Rules/master/GlobalMedia.list,10800
 🕵 漏网之鱼(block-fix),https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Video-Crack.list,10800
 Ⓜicrosoft🍎Apple🛹MI,https://raw.githubusercontent.com/LM-Firefly/Rules/master/Microsoft.list,10800
 🔰 星辰大海,https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY.list,10800
-🔰 星辰大海,https://raw.githubusercontent.com/cccarbondioxide/void/master/rulesfold/ProxyEX.list,10800
+🔰 星辰大海,https://raw.githubusercontent.com/cccarbondioxide/void/dev/rulesfold/ProxyEX.list,10800
 🇨🇳 回家,https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic.list,10800
 🇨🇳 回家,https://raw.githubusercontent.com/LM-Firefly/Rules/master/CCC-CN.list,10800
 🇨🇳 回家,[]GEOIP,CN
