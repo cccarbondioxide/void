@@ -13,3 +13,6 @@ DOMAIN-SUFFIX,speed.cloudflare.com
 # > V2EX
 DOMAIN-SUFFIX,v2ex.co
 DOMAIN-SUFFIX,v2ex.com
+
+# > copymanhua
+DOMAIN-KEYWORD,mangafuna
