@@ -181,5 +181,8 @@ DOMAIN-SUFFIX,ads.heytapmobi.com
 # 浏览器简洁模式下屏蔽界面资讯加载
 # 如异常，请注释此条注释之下类目
 # DOMAIN,static-cpc.heytapimage.com
-DOMAIN-SUFFIX,heytapimage.com
-DOMAIN-SUFFIX,heytapmobi.com
+# DOMAIN-SUFFIX,heytapimage.com
+DOMAIN,u.cpc.heytapmobi.com
+DOMAIN,static-cpc.heytapimage.com
+DOMAIN,activity-cpc.heytapimage.com
+# DOMAIN-SUFFIX,heytapmobi.com
