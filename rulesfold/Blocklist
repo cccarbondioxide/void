@@ -179,5 +179,5 @@ DOMAIN,adsfs.heytapimages.com
 DOMAIN,adsfs-sdkconfig.heytapimages.com
 DOMAIN-SUFFIX,ads.heytapmobi.com
 # 浏览器简洁模式下屏蔽界面资讯加载
-# 如异常，请注释以下类目
-DOMAIN-KEYWORD,cpc
+# 如异常，请注释此条注释之下类目
+DOMAIN,static-cpc.heytapimage.com
