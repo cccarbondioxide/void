@@ -168,6 +168,14 @@ DOMAIN-SUFFIX,gifshow.com
 # > [快搜] com.questions.liteai
 DOMAIN,wcp.taobao.com
 DOMAIN-SUFFIX,ads.hubcloud
+DOMAIN,lf-cdn-tos.bytescm.com
+DOMAIN,rtb.julang.taobao.com
+DOMAIN,tt.m.bestadprof.com
+DOMAIN,mssdk.volces.com
+DOMAIN,webcast-open.douyin.com
+DOMAIN,qh-material.taobao.com
+DOMAIN-KEYWORD,pangolin-sdk-toutiao
+
 
 # >OPPO
 # DOMAIN,new.heytapdownload.com
