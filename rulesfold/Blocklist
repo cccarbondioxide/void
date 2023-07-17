@@ -175,6 +175,10 @@ DOMAIN,webcast-open.douyin.com
 DOMAIN,qh-material.taobao.com
 DOMAIN-KEYWORD,pangolin-sdk-toutiao
 DOMAIN-KEYWORD,tnc3
+IP-CIDR,112.13.173.96/28
+IP-CIDR,183.246.206.112/28
+IP-CIDR,112.15.1.225/28
+DST-PORT,45600
 
 # >OPPO
 # DOMAIN,new.heytapdownload.com
