@@ -31,3 +31,7 @@ DOMAIN-SUFFIX,shiyanma.org.cn
 DOMAIN-SUFFIX,sqpx.org
 DOMAIN-SUFFIX,wsglw.com
 DOMAIN-SUFFIX,wsglw.net
+# > MoeDNS
+DOMAIN,pdns.itxe.net
+IP-CIDR,221.131.165.165/32,no-resolve
+IP-CIDR,36.156.184.156/32,no-resolve
