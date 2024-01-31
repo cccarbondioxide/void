@@ -224,6 +224,7 @@ DOMAIN-SUFFIX,ads.heytapmobi.com
 # DOMAIN,static-cpc.heytapimage.com
 # DOMAIN-SUFFIX,heytapimage.com
 DOMAIN,u.cpc.heytapmobi.com
-DOMAIN,static-cpc.heytapimage.com
+# DOMAIN,static-cpc.heytapimage.com
 DOMAIN,activity-cpc.heytapimage.com
 # DOMAIN-SUFFIX,heytapmobi.com
+DOMAIN,ibrowser.feeds.heytapmobi.com
