@@ -127,6 +127,7 @@ DOMAIN-SUFFIX,ads.gameabc.com,AdBlock
 DOMAIN-SUFFIX,bfas.bianfeng.com,AdBlock
 DOMAIN-SUFFIX,uad.gameabc.com,AdBlock
 DOMAIN-SUFFIX,js.users.51.la,AdBlock
+DOMAIN,tidenews.com.cn,AdBlock
 
 # > cnzz
 DOMAIN,z2.cnzz.com,AdBlock
