@@ -28,6 +28,27 @@ IP-CIDR6,fc00::/7,no-resolve
 IP-CIDR6,fe80::/10,no-resolve
 IP-CIDR6,fd00::/8,no-resolve
 
+# > ROUTER
+DOMAIN,router.ctc
+DOMAIN,miwifi.com
+DOMAIN,tplogin.cn
+DOMAIN,moshujia.cn
+DOMAIN,tendawifi.com
+DOMAIN,zte.home
+DOMAIN,luyou.360.com
+DOMAIN,ihome.360.cn
+DOMAIN,jdcloudwifi.com
+DOMAIN,router.asus.com
+DOMAIN,melogin.cn
+DOMAIN,www.routerlogin.com
+DOMAIN,www.routerlogin.net
+DOMAIN,linksys smartWiFi. com
+DOMAIN,hiwin.com
+DOMAIN,4006024680.com
+DOMAIN,leike.cc
+DOMAIN,phicomm.me
+DOMAIN,falogin.cn
+
 # > qbittorrent
 DOMAIN-SUFFIX,qbittorrent.org
 ## > 迅雷
