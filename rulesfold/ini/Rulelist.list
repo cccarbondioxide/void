@@ -17,7 +17,12 @@ DIRECT,https://raw.githubusercontent.com/cccarbondioxide/void/dev/rulesfold/Dire
 🇨🇳 回家,https://raw.githubusercontent.com/cccarbondioxide/void/dev/rulesfold/bk-md.list,10800
 🕵 漏网之鱼(block-fix),https://raw.githubusercontent.com/cccarbondioxide/void/dev/rulesfold/EXfish.list,10800
 🕵 漏网之鱼(block-fix),https://raw.githubusercontent.com/LM-Firefly/Rules/master/SpeedTest.list,10800
-💻 GamePlatform,https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game.list,10800
+💻 GamePlatform,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/master/Clash/Ruleset/Steam.list,10800
+💻 GamePlatform,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/master/Clash/Ruleset/Epic.list,10800
+💻 GamePlatform,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/master/Clash/Ruleset/Xbox.list,10800
+💻 GamePlatform,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/master/Clash/Providers/Ruleset/Origin.yaml,10800
+💻 GamePlatform,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/master/Clash/Ruleset/Blizzard.list,10800
+💻 GamePlatform,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/master/Clash/Providers/Ruleset/Sony.yaml,10800
 💻 GamePlatform,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Discord.list,10800
 💻 GamePlatform,https://raw.githubusercontent.com/cccarbondioxide/void/dev/rulesfold/GameEX.list,10800
 🌍 全球媒体,https://raw.githubusercontent.com/LM-Firefly/Rules/master/GlobalMedia.list,10800
