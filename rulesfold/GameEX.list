@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,wheel-soft.com
 DOMAIN-SUFFIX,dmmgames.com
 
 # > Kancolle
+DOMAIN-SUFFIX,kancolle-server.com
 IP-CIDR,203.104.209.7/32,no-resolve
 IP-CIDR,203.104.209.71/32,no-resolve
 IP-CIDR,203.104.209.87/32,no-resolve
